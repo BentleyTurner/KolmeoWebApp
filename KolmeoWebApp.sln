@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolmeoWebApp", "KolmeoWebApp\KolmeoWebApp.csproj", "{B025E4F6-562F-4E8E-9FAC-5B082AA7461F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolmeoWebAppTests", "KolmeoWebAppTests\KolmeoWebAppTests.csproj", "{12AC06F5-61E6-46E5-89AB-9BEBDC86B23D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B025E4F6-562F-4E8E-9FAC-5B082AA7461F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B025E4F6-562F-4E8E-9FAC-5B082AA7461F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B025E4F6-562F-4E8E-9FAC-5B082AA7461F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B025E4F6-562F-4E8E-9FAC-5B082AA7461F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12AC06F5-61E6-46E5-89AB-9BEBDC86B23D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12AC06F5-61E6-46E5-89AB-9BEBDC86B23D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12AC06F5-61E6-46E5-89AB-9BEBDC86B23D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12AC06F5-61E6-46E5-89AB-9BEBDC86B23D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB9ACCF8-4C3F-4B01-BBF0-EDE09A223149}
+	EndGlobalSection
+EndGlobal
