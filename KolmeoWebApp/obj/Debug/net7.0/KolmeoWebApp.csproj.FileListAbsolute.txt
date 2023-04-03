@@ -31,3 +31,6 @@ C:\Git\KolmeoWebApp\KolmeoWebApp\obj\Debug\net7.0\refint\KolmeoWebApp.dll
 C:\Git\KolmeoWebApp\KolmeoWebApp\obj\Debug\net7.0\KolmeoWebApp.pdb
 C:\Git\KolmeoWebApp\KolmeoWebApp\obj\Debug\net7.0\KolmeoWebApp.genruntimeconfig.cache
 C:\Git\KolmeoWebApp\KolmeoWebApp\obj\Debug\net7.0\ref\KolmeoWebApp.dll
+C:\Git\KolmeoWebApp\KolmeoWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\KolmeoWebApp\KolmeoWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\KolmeoWebApp\KolmeoWebApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll

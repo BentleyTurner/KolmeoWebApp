@@ -110,3 +110,6 @@ C:\Git\KolmeoWebApp\KolmeoWebAppTests\obj\Debug\net7.0\refint\KolmeoWebAppTests.
 C:\Git\KolmeoWebApp\KolmeoWebAppTests\obj\Debug\net7.0\KolmeoWebAppTests.pdb
 C:\Git\KolmeoWebApp\KolmeoWebAppTests\obj\Debug\net7.0\KolmeoWebAppTests.genruntimeconfig.cache
 C:\Git\KolmeoWebApp\KolmeoWebAppTests\obj\Debug\net7.0\ref\KolmeoWebAppTests.dll
+C:\Git\KolmeoWebApp\KolmeoWebAppTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\KolmeoWebApp\KolmeoWebAppTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\KolmeoWebApp\KolmeoWebAppTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
